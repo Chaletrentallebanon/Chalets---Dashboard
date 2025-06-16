@@ -1,3 +1,3 @@
 # Chalet Dashboard
 
-A starter project for managing chalet listings.
+A fully working Next.js setup with routing and placeholder pages.
